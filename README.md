@@ -1,7 +1,8 @@
 ## Hi there 👋
 
-I am iOS Developer
-My Telegram @RustamAvezov
+#I am iOS Developer
+
+#My Telegram @RustamAvezov
 
 
 # 💻 Tech Stack:
